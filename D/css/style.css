@@ -1,0 +1,28 @@
+.main{
+    background-color: blue;
+    height: 600px;
+    width: 1200px;
+    margin: 50px auto;
+    position: relative;
+}
+.one{
+    position: absolute;
+    background-color: green;
+    height: 600px;
+    width: 400px;
+}
+.two{
+    position: absolute;
+    background-color: whitesmoke;
+    height: 600px;
+    width: 400px;
+    left: 33.3%;
+}
+.three{
+    position: absolute;
+    background-color: green;
+    height: 600px;
+    width: 400px;
+    left: 66.7%;
+    right: 0;
+}

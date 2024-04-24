@@ -1,0 +1,39 @@
+.main{
+    background-color: aqua;
+    height: 600px;
+    width: 1000px;
+    margin: 50px auto;
+    position: relative;
+}
+.one{
+    background-color: green;
+    left: 20%;
+    height: 200px;
+    width: 800px;
+    position: absolute;
+}
+.two{
+    background-color: whitesmoke;
+    left: 20%;
+    bottom: 33.5%;
+    height: 200px;
+    width: 800px;
+    position: absolute;
+}
+.three{
+    background-color: black;
+    left: 20%;
+    bottom: 0;
+    height: 200px;
+    width: 800px;
+    position: absolute;
+}
+.main::after{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 600px;
+    width: 200px;
+    background-color: tomato;
+}

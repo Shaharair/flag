@@ -1,0 +1,15 @@
+.main{
+    background-color: darkgreen;
+    height: 600px;
+    width: 1200px;
+    margin: 50px auto;
+    position: relative;
+}
+.one{
+    position: absolute;
+    top: 150px;
+    left: 380px;
+}
+.one img{
+    width: 60%;
+}

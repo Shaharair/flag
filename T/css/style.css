@@ -1,0 +1,21 @@
+.main{
+    background-color: blueviolet;
+    height: 600px;
+    width: 1200px;
+    margin: 50px auto;
+}
+.one{
+    background-color: forestgreen;
+    height: 200px;
+    width: 1200px;
+}
+.two{
+    background-color: whitesmoke;
+    height: 200px;
+    width: 1200px;
+}
+.three{
+    background-color: blue;
+    height: 200px;
+    width: 1200px;
+}
